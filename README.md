@@ -1,2 +1,2 @@
 # Digifest-Rakamin32
-Homeworktask- Rakamin- Digifest 32
+Homework-task- Rakamin- Digifest 32
